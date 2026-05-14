@@ -20,7 +20,7 @@
     <radio><type>MP3</type><url>http://medinafm.ice.infomaniak.ch/medinafm-64.mp3</url></radio>
     <radio><type>MP3</type><url>http://medradio-maroc.ice.infomaniak.ch/medradio-maroc-64.mp3</url></radio>
     <radio><type>MP3</type><url>http://mgstrm9.twesto.com:7281/stream1.nsv</url></radio>
-    <radio><type>MP3</type><url>http://streaming208.radionomy.com/Fiive%2DRadio?group=0&countrycode=MA</url></radio>
+    <radio><type>MP3</type><url>http://streaming208.radionomy.com/Fiive%2DRadio?group=0&amp;countrycode=MA</url></radio>
     <radio><type>MP3</type><url>http://channel1.moroccanvoice.com:8000/</url></radio>
     <radio><type>MP3</type><url>http://oriental-high.rautemusik.fm</url></radio>
     <radio><type>MP3</type><url>http://mp3.live.tv-radio.com/nostalgie/all/nos_113812.mp3</url></radio>
