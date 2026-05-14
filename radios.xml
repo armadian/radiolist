@@ -1,7 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <radios>
-	<radio>
-		<type>MP3</type>
-		<url>https://stream.qmusic.nl/thema/mp3</url>
-	</radio>
+
+    <radio><type>MP3</type><url>http://broadcaster.infomaniak.ch/aswat-high.mp3</url></radio>
+    <radio><type>MP3</type><url>http://68.168.117.130:8000/;stream.nsv</url></radio>
+    <radio><type>MP3</type><url>http://broadcast.infomaniak.ch/beurfm-high.mp3</url></radio>
+    <radio><type>MP3</type><url>http://vipicecast.yacast.net/cap_radio?1336599642114.mp3</url></radio>
+    <radio><type>MP3</type><url>http://broadcast.infomaniak.net/chadafm-high.mp3</url></radio>
+    <radio><type>MP3</type><url>http://s2.voscast.com:7386/</url></radio>
+    <radio><type>MP3</type><url>http://95.81.147.3/franceinter/all/franceinterhautdebit.mp3</url></radio>
+    <radio><type>MP3</type><url>http://broadcast.infomaniak.ch/francemaghreb-high.mp3</url></radio>
+    <radio><type>MP3</type><url>http://streaming.radio.funradio.fr/fun-1-44-96?;49681461974978</url></radio>
+    <radio><type>MP3</type><url>http://63.243.149.5/HITRADIO_MAROC.mp3</url></radio>
+    <radio><type>MP3</type><url>http://77.67.34.21/BUZZ.mp3</url></radio>
+    <radio><type>MP3</type><url>http://208.92.53.87/DANCEFLOOR.mp3</url></radio>
+    <radio><type>MP3</type><url>http://63.243.149.3/MGHARBA.mp3</url></radio>
+    <radio><type>MP3</type><url>http://77.67.34.11/R_AND_B.mp3</url></radio>
+    <radio><type>MP3</type><url>http://streaming.luxeradio.ma:8000/;stream.nsv</url></radio>
+    <radio><type>MP3</type><url>http://streaming07.mit.ovea.com/medi1</url></radio>
+    <radio><type>MP3</type><url>http://medinafm.ice.infomaniak.ch/medinafm-64.mp3</url></radio>
+    <radio><type>MP3</type><url>http://medradio-maroc.ice.infomaniak.ch/medradio-maroc-64.mp3</url></radio>
+    <radio><type>MP3</type><url>http://mgstrm9.twesto.com:7281/stream1.nsv</url></radio>
+    <radio><type>MP3</type><url>http://streaming208.radionomy.com/Fiive%2DRadio?group=0&countrycode=MA</url></radio>
+    <radio><type>MP3</type><url>http://channel1.moroccanvoice.com:8000/</url></radio>
+    <radio><type>MP3</type><url>http://oriental-high.rautemusik.fm</url></radio>
+    <radio><type>MP3</type><url>http://mp3.live.tv-radio.com/nostalgie/all/nos_113812.mp3</url></radio>
+    <radio><type>MP3</type><url>http://mp3.live.tv-radio.com/nrj/all/nrj_113225.mp3</url></radio>
+    <radio><type>MP3</type><url>http://vipicecast.yacast.net/radio_2m</url></radio>
+    <radio><type>MP3</type><url>http://s4.voscast.com:7648/;listen.mp3</url></radio>
+    <radio><type>MP3</type><url>http://77.92.64.44:8032</url></radio>
+    <radio><type>MP3</type><url>http://audiostream.rtl.be/belrtl128</url></radio>
+    <radio><type>MP3</type><url>http://4633.live.streamtheworld.com/CADENASER_SC</url></radio>
+    <radio><type>MP3</type><url>http://inovatek.ma:8001/mfm.ogg</url></radio>
+    <radio><type>MP3</type><url>http://208.92.53.99/RADIO_CHARKI.mp3</url></radio>
+    <radio><type>MP3</type><url>http://208.92.53.105/RADIO_DANCE.mp3</url></radio>
+    <radio><type>MP3</type><url>http://208.92.53.105/RADIO_HIT.mp3</url></radio>
+    <radio><type>MP3</type><url>http://208.92.53.88/RADIO_MAROC.mp3</url></radio>
+    <radio><type>MP3</type><url>http://radiomars.ice.infomaniak.ch/radiomars-128.mp3</url></radio>
+    <radio><type>MP3</type><url>http://95.81.147.3/radioorient/all/radioorient.mp3</url></radio>
+    <radio><type>MP3</type><url>http://91.121.4.107:8000/radio_plus_agadir.mp3</url></radio>
+    <radio><type>MP3</type><url>http://95.81.146.2/radiosoleilparis/all/radiosoleilparis.mp3</url></radio>
+    <radio><type>MP3</type><url>http://188.165.156.97:8220</url></radio>
+    <radio><type>MP3</type><url>http://195.10.10.201/rtve/radio1.mp3</url></radio>
+    <radio><type>MP3</type><url>http://streaming.radio.rtl.fr:80/rtl-1-44-96</url></radio>
+    <radio><type>MP3</type><url>http://stream6.tanitweb.com/shems</url></radio>
+    <radio><type>MP3</type><url>http://media.yabiladi.com:8000</url></radio>
+    <radio><type>MP3</type><url>http://188.247.86.67:8002/3</url></radio>
+    <radio><type>MP3</type><url>http://listen.radionomy.com/anwa-rock</url></radio>
+    <radio><type>MP3</type><url>http://mp3.live.tv-radio.com/montecarlodoualiya/all/montecarlodoualiya-128k.mp3</url></radio>
+    <radio><type>MP3</type><url>http://stream8.tanitweb.com/Oasis</url></radio>
+    <radio><type>MP3</type><url>http://radio-dzair.net:8000/stream3</url></radio>
+    <radio><type>MP3</type><url>http://radio-dzair.net:8012</url></radio>
+    <radio><type>MP3</type><url>http://radio-dzair.net:8032</url></radio>
+    <radio><type>MP3</type><url>http://radio-dzair.net:8006</url></radio>
+    <radio><type>MP3</type><url>http://radio-dzair.net:8020</url></radio>
+    <radio><type>MP3</type><url>http://188.165.248.163:8000</url></radio>
+    <radio><type>MP3</type><url>http://listen.radionomy.com/dnc</url></radio>
+    <radio><type>MP3</type><url>http://streaming2.toutech.net:8000/jawharafm</url></radio>
+    <radio><type>MP3</type><url>http://stream6.tanitweb.com/expressfm</url></radio>
+    <radio><type>MP3</type><url>http://rhstrm8.twesto.com:6365/stream2.nsv</url></radio>
+
+    <radio><type>MMS</type><url>mms://vipmms9.yacast.net/snrt_live03</url></radio>
+    <radio><type>MMS</type><url>mms://vipmms9.yacast.net/snrt_live04</url></radio>
+    <radio><type>MMS</type><url>mms://vipmms9.yacast.net/snrt_live02</url></radio>
+    <radio><type>MMS</type><url>mms://vipmms9.yacast.net/snrt_live01</url></radio>
+
 </radios>
