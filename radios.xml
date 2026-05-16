@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <radios>
 
-    <radio><type>MP3</type><url>http://broadcaster.infomaniak.ch/aswat-high.mp3</url></radio>
+    <radio><type>MP3</type><url>https://broadcast.ice.infomaniak.ch/aswat-high.mp3</url></radio>
     <radio><type>MP3</type><url>http://68.168.117.130:8000/;stream.nsv</url></radio>
     <radio><type>MP3</type><url>http://broadcast.infomaniak.ch/beurfm-high.mp3</url></radio>
     <radio><type>MP3</type><url>http://vipicecast.yacast.net/cap_radio?1336599642114.mp3</url></radio>
