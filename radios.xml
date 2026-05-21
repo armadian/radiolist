@@ -1,67 +1,250 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <radios>
 
-    <radio><type>MP3</type><url>https://broadcast.ice.infomaniak.ch/aswat-high.mp3</url></radio>
-    <radio><type>MP3</type><url>http://68.168.117.130:8000/;stream.nsv</url></radio>
-    <radio><type>MP3</type><url>http://broadcast.infomaniak.ch/beurfm-high.mp3</url></radio>
-    <radio><type>MP3</type><url>http://vipicecast.yacast.net/cap_radio?1336599642114.mp3</url></radio>
-    <radio><type>MP3</type><url>http://broadcast.infomaniak.net/chadafm-high.mp3</url></radio>
-    <radio><type>MP3</type><url>http://s2.voscast.com:7386/</url></radio>
-    <radio><type>MP3</type><url>http://95.81.147.3/franceinter/all/franceinterhautdebit.mp3</url></radio>
-    <radio><type>MP3</type><url>http://broadcast.infomaniak.ch/francemaghreb-high.mp3</url></radio>
-    <radio><type>MP3</type><url>http://streaming.radio.funradio.fr/fun-1-44-96?;49681461974978</url></radio>
-    <radio><type>MP3</type><url>http://63.243.149.5/HITRADIO_MAROC.mp3</url></radio>
-    <radio><type>MP3</type><url>http://77.67.34.21/BUZZ.mp3</url></radio>
-    <radio><type>MP3</type><url>http://208.92.53.87/DANCEFLOOR.mp3</url></radio>
-    <radio><type>MP3</type><url>http://63.243.149.3/MGHARBA.mp3</url></radio>
-    <radio><type>MP3</type><url>http://77.67.34.11/R_AND_B.mp3</url></radio>
-    <radio><type>MP3</type><url>http://streaming.luxeradio.ma:8000/;stream.nsv</url></radio>
-    <radio><type>MP3</type><url>http://streaming07.mit.ovea.com/medi1</url></radio>
-    <radio><type>MP3</type><url>http://medinafm.ice.infomaniak.ch/medinafm-64.mp3</url></radio>
-    <radio><type>MP3</type><url>http://medradio-maroc.ice.infomaniak.ch/medradio-maroc-64.mp3</url></radio>
-    <radio><type>MP3</type><url>http://mgstrm9.twesto.com:7281/stream1.nsv</url></radio>
-    <radio><type>MP3</type><url>http://streaming208.radionomy.com/</url></radio>
-    <radio><type>MP3</type><url>http://channel1.moroccanvoice.com:8000/</url></radio>
-    <radio><type>MP3</type><url>http://oriental-high.rautemusik.fm</url></radio>
-    <radio><type>MP3</type><url>http://mp3.live.tv-radio.com/nostalgie/all/nos_113812.mp3</url></radio>
-    <radio><type>MP3</type><url>http://mp3.live.tv-radio.com/nrj/all/nrj_113225.mp3</url></radio>
-    <radio><type>MP3</type><url>http://vipicecast.yacast.net/radio_2m</url></radio>
-    <radio><type>MP3</type><url>http://s4.voscast.com:7648/;listen.mp3</url></radio>
-    <radio><type>MP3</type><url>http://77.92.64.44:8032</url></radio>
-    <radio><type>MP3</type><url>http://audiostream.rtl.be/belrtl128</url></radio>
-    <radio><type>MP3</type><url>http://4633.live.streamtheworld.com/CADENASER_SC</url></radio>
-    <radio><type>MP3</type><url>http://inovatek.ma:8001/mfm.ogg</url></radio>
-    <radio><type>MP3</type><url>http://208.92.53.99/RADIO_CHARKI.mp3</url></radio>
-    <radio><type>MP3</type><url>http://208.92.53.105/RADIO_DANCE.mp3</url></radio>
-    <radio><type>MP3</type><url>http://208.92.53.105/RADIO_HIT.mp3</url></radio>
-    <radio><type>MP3</type><url>http://208.92.53.88/RADIO_MAROC.mp3</url></radio>
-    <radio><type>MP3</type><url>http://radiomars.ice.infomaniak.ch/radiomars-128.mp3</url></radio>
-    <radio><type>MP3</type><url>http://95.81.147.3/radioorient/all/radioorient.mp3</url></radio>
-    <radio><type>MP3</type><url>http://91.121.4.107:8000/radio_plus_agadir.mp3</url></radio>
-    <radio><type>MP3</type><url>http://95.81.146.2/radiosoleilparis/all/radiosoleilparis.mp3</url></radio>
-    <radio><type>MP3</type><url>http://188.165.156.97:8220</url></radio>
-    <radio><type>MP3</type><url>http://195.10.10.201/rtve/radio1.mp3</url></radio>
-    <radio><type>MP3</type><url>http://streaming.radio.rtl.fr:80/rtl-1-44-96</url></radio>
-    <radio><type>MP3</type><url>http://stream6.tanitweb.com/shems</url></radio>
-    <radio><type>MP3</type><url>http://media.yabiladi.com:8000</url></radio>
-    <radio><type>MP3</type><url>http://188.247.86.67:8002/3</url></radio>
-    <radio><type>MP3</type><url>http://listen.radionomy.com/anwa-rock</url></radio>
-    <radio><type>MP3</type><url>http://mp3.live.tv-radio.com/montecarlodoualiya/all/montecarlodoualiya-128k.mp3</url></radio>
-    <radio><type>MP3</type><url>http://stream8.tanitweb.com/Oasis</url></radio>
-    <radio><type>MP3</type><url>http://radio-dzair.net:8000/stream3</url></radio>
-    <radio><type>MP3</type><url>http://radio-dzair.net:8012</url></radio>
-    <radio><type>MP3</type><url>http://radio-dzair.net:8032</url></radio>
-    <radio><type>MP3</type><url>http://radio-dzair.net:8006</url></radio>
-    <radio><type>MP3</type><url>http://radio-dzair.net:8020</url></radio>
-    <radio><type>MP3</type><url>http://188.165.248.163:8000</url></radio>
-    <radio><type>MP3</type><url>http://listen.radionomy.com/dnc</url></radio>
-    <radio><type>MP3</type><url>http://streaming2.toutech.net:8000/jawharafm</url></radio>
-    <radio><type>MP3</type><url>http://stream6.tanitweb.com/expressfm</url></radio>
-    <radio><type>MP3</type><url>http://rhstrm8.twesto.com:6365/stream2.nsv</url></radio>
+    <radio id="Radio_001" name="ASWAT" bitrate="96" type="MP3" enabled="Oui" icon="radio_aswat" country="Maroc" active="Non">
+        <url>https://broadcast.ice.infomaniak.ch/aswat-high.mp3</url>
+    </radio>
 
-    <radio><type>MMS</type><url>mms://vipmms9.yacast.net/snrt_live03</url></radio>
-    <radio><type>MMS</type><url>mms://vipmms9.yacast.net/snrt_live04</url></radio>
-    <radio><type>MMS</type><url>mms://vipmms9.yacast.net/snrt_live02</url></radio>
-    <radio><type>MMS</type><url>mms://vipmms9.yacast.net/snrt_live01</url></radio>
+    <radio id="Radio_002" name="ATLANTIC RADIO" bitrate="64" type="MP3" enabled="Oui" icon="radio_atlanticradio" country="Maroc" active="Non">
+        <url>http://68.168.117.130:8000/;stream.nsv</url>
+    </radio>
+
+    <radio id="Radio_003" name="BEUR FM" bitrate="128" type="MP3" enabled="Oui" icon="radio_beurfm" country="France" active="Non">
+        <url>http://broadcast.infomaniak.ch/beurfm-high.mp3</url>
+    </radio>
+
+    <radio id="Radio_004" name="CAP RADIO" bitrate="128" type="MP3" enabled="Oui" icon="radio_capradio" country="Maroc" active="Non">
+        <url>http://vipicecast.yacast.net/cap_radio?1336599642114.mp3</url>
+    </radio>
+
+    <radio id="Radio_005" name="CHADA FM" bitrate="128" type="MP3" enabled="Oui" icon="radio_chadafm" country="Maroc" active="Non">
+        <url>http://broadcast.infomaniak.net/chadafm-high.mp3</url>
+    </radio>
+
+    <radio id="Radio_006" name="CHOU RADIO" bitrate="64" type="MP3" enabled="Oui" icon="radio_chouradio" country="Canada" active="Non">
+        <url>http://s2.voscast.com:7386/</url>
+    </radio>
+
+    <radio id="Radio_007" name="FRANCE INTER" bitrate="128" type="MP3" enabled="Non" icon="radio_franceinter" country="France" active="Non">
+        <url>http://95.81.147.3/franceinter/all/franceinterhautdebit.mp3</url>
+    </radio>
+
+    <radio id="Radio_008" name="FRANCE MAGHREB" bitrate="128" type="MP3" enabled="Oui" icon="radio_francemaghreb" country="France" active="Non">
+        <url>http://broadcast.infomaniak.ch/francemaghreb-high.mp3</url>
+    </radio>
+
+    <radio id="Radio_009" name="FUN RADIO" bitrate="64" type="MP3" enabled="Non" icon="radio_funradio" country="France" active="Non">
+        <url>http://streaming.radio.funradio.fr/fun-1-44-96?;49681461974978</url>
+    </radio>
+
+    <radio id="Radio_010" name="HIT RADIO" bitrate="128" type="MP3" enabled="Oui" icon="radio_hitradio" country="Maroc" active="Non">
+        <url>http://63.243.149.5/HITRADIO_MAROC.mp3</url>
+    </radio>
+
+    <radio id="Radio_011" name="HIT 100% BUZZ" bitrate="256" type="MP3" enabled="Oui" icon="radio_100buzz" country="Maroc" active="Non">
+        <url>http://77.67.34.21/BUZZ.mp3</url>
+    </radio>
+
+    <radio id="Radio_012" name="HIT 100% DANCEFLOOR" bitrate="256" type="MP3" enabled="Oui" icon="radio_100dancefloor" country="Maroc" active="Non">
+        <url>http://208.92.53.87/DANCEFLOOR.mp3</url>
+    </radio>
+
+    <radio id="Radio_013" name="HIT 100% MGHARBA" bitrate="256" type="MP3" enabled="Oui" icon="radio_100mgharba" country="Maroc" active="Non">
+        <url>http://63.243.149.3/MGHARBA.mp3</url>
+    </radio>
+
+    <radio id="Radio_014" name="HIT 100% RNB" bitrate="256" type="MP3" enabled="Oui" icon="radio_100rb" country="Maroc" active="Non">
+        <url>http://77.67.34.11/R_AND_B.mp3</url>
+    </radio>
+
+    <radio id="Radio_015" name="LUXE RADIO" bitrate="112" type="MP3" enabled="Oui" icon="radio_luxeradio" country="Maroc" active="Non">
+        <url>http://streaming.luxeradio.ma:8000/;stream.nsv</url>
+    </radio>
+
+    <radio id="Radio_017" name="MED1 RADIO" bitrate="64" type="MP3" enabled="Oui" icon="radio_med1radio" country="Maroc" active="Non">
+        <url>http://streaming07.mit.ovea.com/medi1</url>
+    </radio>
+
+    <radio id="Radio_018" name="MEDINA FM" bitrate="64" type="MP3" enabled="Oui" icon="radio_medinafm" country="Maroc" active="Non">
+        <url>http://medinafm.ice.infomaniak.ch/medinafm-64.mp3</url>
+    </radio>
+
+    <radio id="Radio_019" name="MEDRADIO" bitrate="64" type="MP3" enabled="Oui" icon="radio_medradio" country="Maroc" active="Non">
+        <url>http://medradio-maroc.ice.infomaniak.ch/medradio-maroc-64.mp3</url>
+    </radio>
+
+    <radio id="Radio_020" name="MEGA FM" bitrate="64" type="MP3" enabled="Oui" icon="radio_megafm" country="Egypte" active="Non">
+        <url>http://mgstrm9.twesto.com:7281/stream1.nsv</url>
+    </radio>
+
+    <radio id="Radio_021" name="MFJ RADIO" bitrate="128" type="MP3" enabled="Oui" icon="radio_mfjradio" country="France" active="Non">
+        <url>http://streaming208.radionomy.com/</url>
+    </radio>
+
+    <radio id="Radio_022" name="MOROCCAN VOICE" bitrate="56" type="MP3" enabled="Oui" icon="radio_moroccanvoice" country="Maroc" active="Non">
+        <url>http://channel1.moroccanvoice.com:8000/</url>
+    </radio>
+
+    <radio id="Radio_023" name="MUSIK ORIENTAL" bitrate="128" type="MP3" enabled="Oui" icon="radio_musikoriental" country="Allemagne" active="Non">
+        <url>http://oriental-high.rautemusik.fm</url>
+    </radio>
+
+    <radio id="Radio_024" name="NOSTALGIE" bitrate="128" type="MP3" enabled="Non" icon="radio_nostalgie" country="France" active="Non">
+        <url>http://mp3.live.tv-radio.com/nostalgie/all/nos_113812.mp3</url>
+    </radio>
+
+    <radio id="Radio_025" name="NRJ" bitrate="128" type="MP3" enabled="Non" icon="radio_nrj" country="France" active="Non">
+        <url>http://mp3.live.tv-radio.com/nrj/all/nrj_113225.mp3</url>
+    </radio>
+
+    <radio id="Radio_026" name="RADIO 2M" bitrate="128" type="MP3" enabled="Oui" icon="radio_2mradio" country="Maroc" active="Non">
+        <url>http://vipicecast.yacast.net/radio_2m</url>
+    </radio>
+
+    <radio id="Radio_027" name="RADIO 2MORO" bitrate="56" type="MP3" enabled="Oui" icon="radio_radio2moro" country="Australie" active="Non">
+        <url>http://s4.voscast.com:7648/;listen.mp3</url>
+    </radio>
+
+    <radio id="Radio_028" name="RADIO AL MANAR" bitrate="48" type="MP3" enabled="Oui" icon="radio_radioalmanar" country="Belgique" active="Non">
+        <url>http://77.92.64.44:8032</url>
+    </radio>
+
+    <radio id="Radio_029" name="RADIO BEL RTL" bitrate="128" type="MP3" enabled="Non" icon="radio_belrtl" country="Belgique" active="Non">
+        <url>http://audiostream.rtl.be/belrtl128</url>
+    </radio>
+
+    <radio id="Radio_030" name="RADIO CADENA SER" bitrate="72" type="MP3" enabled="Non" icon="radio_cadenaser" country="Espagne" active="Non">
+        <url>http://4633.live.streamtheworld.com/CADENASER_SC</url>
+    </radio>
+
+    <radio id="Radio_031" name="RADIO MFM" bitrate="64" type="MP3" enabled="Oui" icon="radio_casafm" country="Maroc" active="Non">
+        <url>http://inovatek.ma:8001/mfm.ogg</url>
+    </radio>
+
+    <radio id="Radio_032" name="RADIO INWI CHARKI" bitrate="128" type="MP3" enabled="Oui" icon="radio_inwi_charki" country="Maroc" active="Non">
+        <url>http://208.92.53.99/RADIO_CHARKI.mp3</url>
+    </radio>
+
+    <radio id="Radio_033" name="RADIO INWI DANCE" bitrate="128" type="MP3" enabled="Oui" icon="radio_inwi_dance" country="Maroc" active="Non">
+        <url>http://208.92.53.105/RADIO_DANCE.mp3</url>
+    </radio>
+
+    <radio id="Radio_034" name="RADIO INWI HIT" bitrate="128" type="MP3" enabled="Oui" icon="radio_inwi_hit" country="Maroc" active="Non">
+        <url>http://208.92.53.105/RADIO_HIT.mp3</url>
+    </radio>
+
+    <radio id="Radio_035" name="RADIO INWI MAROC" bitrate="128" type="MP3" enabled="Oui" icon="radio_inwi_maroc" country="Maroc" active="Non">
+        <url>http://208.92.53.88/RADIO_MAROC.mp3</url>
+    </radio>
+
+    <radio id="Radio_036" name="RADIO MARS" bitrate="96" type="MP3" enabled="Oui" icon="radio_radiomars" country="Maroc" active="Non">
+        <url>http://radiomars.ice.infomaniak.ch/radiomars-128.mp3</url>
+    </radio>
+
+    <radio id="Radio_037" name="RADIO ORIENT" bitrate="150" type="MP3" enabled="Oui" icon="radio_radioorient" country="France" active="Non">
+        <url>http://95.81.147.3/radioorient/all/radioorient.mp3</url>
+    </radio>
+
+    <radio id="Radio_038" name="RADIO PLUS" bitrate="64" type="MP3" enabled="Oui" icon="radio_radioplus" country="Maroc" active="Non">
+        <url>http://91.121.4.107:8000/radio_plus_agadir.mp3</url>
+    </radio>
+
+    <radio id="Radio_039" name="RADIO SOLEIL" bitrate="114" type="MP3" enabled="Oui" icon="radio_radiosoleil" country="France" active="Non">
+        <url>http://95.81.146.2/radiosoleilparis/all/radiosoleilparis.mp3</url>
+    </radio>
+
+    <radio id="Radio_040" name="RADIO ZAMZAM" bitrate="192" type="MP3" enabled="Oui" icon="radio_radiozamzam" country="France" active="Non">
+        <url>http://188.165.156.97:8220</url>
+    </radio>
+
+    <radio id="Radio_041" name="RNE 1" bitrate="64" type="MP3" enabled="Non" icon="radio_rne1" country="Espagne" active="Non">
+        <url>http://195.10.10.201/rtve/radio1.mp3</url>
+    </radio>
+
+    <radio id="Radio_042" name="RTL" bitrate="64" type="MP3" enabled="Non" icon="radio_rtl" country="France" active="Non">
+        <url>http://streaming.radio.rtl.fr:80/rtl-1-44-96</url>
+    </radio>
+
+    <radio id="Radio_043" name="SHEMS FM" bitrate="128" type="MP3" enabled="Oui" icon="radio_shemsfm" country="Tunisie" active="Non">
+        <url>http://stream6.tanitweb.com/shems</url>
+    </radio>
+
+    <radio id="Radio_044" name="RADIO YABILADI" bitrate="128" type="MP3" enabled="Oui" icon="radio_yabiladi" country="Maroc" active="Non">
+        <url>http://media.yabiladi.com:8000</url>
+    </radio>
+
+    <radio id="Radio_049" name="ROTANA RADIO" bitrate="192" type="MP3" enabled="Oui" icon="radio_rotana_radio" country="Arabie Saoudite" active="Non">
+        <url>http://188.247.86.67:8002/3</url>
+    </radio>
+
+    <radio id="Radio_050" name="ANWA ROCK" bitrate="128" type="MP3" enabled="Oui" icon="radio_anwa_rock" country="Maroc" active="Non">
+        <url>http://listen.radionomy.com/anwa-rock</url>
+    </radio>
+
+    <radio id="Radio_051" name="MT CARLO DOUALIYA" bitrate="128" type="MP3" enabled="Oui" icon="radio_monte_carlo_doualiya" country="France" active="Non">
+        <url>http://mp3.live.tv-radio.com/montecarlodoualiya/all/montecarlodoualiya-128k.mp3</url>
+    </radio>
+
+    <radio id="Radio_052" name="OASIS RADIO FM" bitrate="64" type="MP3" enabled="Oui" icon="radio_oasis_fm" country="Tunisie" active="Non">
+        <url>http://stream8.tanitweb.com/Oasis</url>
+    </radio>
+
+    <radio id="Radio_053" name="RADIO DZAIR" bitrate="128" type="MP3" enabled="Oui" icon="radio_dzair" country="Algérie" active="Non">
+        <url>http://radio-dzair.net:8000/stream3</url>
+    </radio>
+
+    <radio id="Radio_054" name="RADIO DZAIR CHAABIA" bitrate="128" type="MP3" enabled="Oui" icon="radio_dzair" country="Algérie" active="Non">
+        <url>http://radio-dzair.net:8012</url>
+    </radio>
+
+    <radio id="Radio_055" name="RADIO DZAIR IZURAN" bitrate="128" type="MP3" enabled="Oui" icon="radio_dzair" country="Algérie" active="Non">
+        <url>http://radio-dzair.net:8032</url>
+    </radio>
+
+    <radio id="Radio_056" name="RADIO DZAIR ORIENTALE" bitrate="128" type="MP3" enabled="Oui" icon="radio_dzair" country="Algérie" active="Non">
+        <url>http://radio-dzair.net:8006</url>
+    </radio>
+
+    <radio id="Radio_057" name="RADIO DZAIR RAINA" bitrate="128" type="MP3" enabled="Oui" icon="radio_dzair" country="Algérie" active="Non">
+        <url>http://radio-dzair.net:8020</url>
+    </radio>
+
+    <radio id="Radio_058" name="SABRA RADIO" bitrate="64" type="MP3" enabled="Oui" icon="radio_sabra" country="Tunisie" active="Non">
+        <url>http://188.165.248.163:8000</url>
+    </radio>
+
+    <radio id="Radio_059" name="DNC RADIO" bitrate="128" type="MP3" enabled="Oui" icon="radio_dnc" country="Maroc" active="Non">
+        <url>http://listen.radionomy.com/dnc</url>
+    </radio>
+
+    <radio id="Radio_060" name="JAWHARA FM" bitrate="128" type="MP3" enabled="Oui" icon="radio_jawharafm" country="Tunisie" active="Non">
+        <url>http://streaming2.toutech.net:8000/jawharafm</url>
+    </radio>
+
+    <radio id="Radio_061" name="EXPRESS FM" bitrate="128" type="MP3" enabled="Oui" icon="radio_expressfm" country="Tunisie" active="Non">
+        <url>http://stream6.tanitweb.com/expressfm</url>
+    </radio>
+
+    <radio id="Radio_062" name="RADIO HITS" bitrate="40" type="MP3" enabled="Oui" icon="radio_radiohits" country="Egypte" active="Non">
+        <url>http://rhstrm8.twesto.com:6365/stream2.nsv</url>
+    </radio>
+
+    <!-- MMS streams -->
+
+    <radio id="Radio_101" name="SNRT AMAZIGH" bitrate="64" type="MMS" enabled="Oui" icon="radio_radioamazigh" country="Maroc" active="Non">
+        <url>mms://vipmms9.yacast.net/snrt_live03</url>
+    </radio>
+
+    <radio id="Radio_102" name="SNRT CHAINE INTER" bitrate="64" type="MMS" enabled="Oui" icon="radio_radiochaineinter" country="Maroc" active="Non">
+        <url>mms://vipmms9.yacast.net/snrt_live04</url>
+    </radio>
+
+    <radio id="Radio_103" name="SNRT MOHAMMED VI" bitrate="64" type="MMS" enabled="Oui" icon="radio_radiomohammedvi" country="Maroc" active="Non">
+        <url>mms://vipmms9.yacast.net/snrt_live02</url>
+    </radio>
+
+    <radio id="Radio_104" name="SNRT WATANIA" bitrate="64" type="MMS" enabled="Oui" icon="radio_radiowatania" country="Maroc" active="Non">
+        <url>mms://vipmms9.yacast.net/snrt_live01</url>
+    </radio>
 
 </radios>
