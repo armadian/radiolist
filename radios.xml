@@ -2,7 +2,7 @@
 <radios>
 
     <radio id="Radio_001" name="ASWAT" bitrate="96" type="MP3" enabled="Oui" icon="radio_aswat" country="Maroc" active="Non">
-        <url>https://broadcast.ice.infomaniak.ch/aswat-high.mp3</url>
+        <url>http://aswat.ice.infomaniak.ch/aswat-high.mp3</url>
     </radio>
 
     <radio id="Radio_002" name="ATLANTIC RADIO" bitrate="64" type="MP3" enabled="Oui" icon="radio_atlanticradio" country="Maroc" active="Non">
